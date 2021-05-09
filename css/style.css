@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbar-brand {
+	padding: 0px;
+  }
+  .navbar-brand>img {
+	height: 100%;
+	padding: 15px;
+	width: auto;
+  }
+    
+
+#section-1{
+	height: 80px;
+	background: #ededed;
+	overflow: hidden;
+	text-align: center;
+}
+
+#section-1 h3 {
+    margin: 21px 0px;
+}
+
+.container{
+	background: #F9F9F9;
+}
+
+.img-card{
+	width: 220px;
+	height: auto;
+}
+
+.img-case-study{
+	width: 350px;
+	height: auto;
+}
+
+.col-lg-3.col-md-6.mb-4.mb-md-0.te {
+    margin-left: 50px;
+}
+
+.col-lg-3.col-md-6.mb-4.mb-md-0 {
+    margin-left: -50px;
+}
